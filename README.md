@@ -1,7 +1,20 @@
 # Hi there, I'm Jae 👋
 
 ## My Technology Stack
-'Programming':
+Programming:
+
+
+Machine Learning:
+
+
+DevOps:
+
+
+Big Data:
+
+
+Cloud:
+
 
 <!--
 **seung-ltd/seung-ltd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
