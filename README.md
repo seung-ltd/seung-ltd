@@ -1,21 +1,21 @@
 # Hi there, I'm Jae 👋
-
 <!--
-## My Technology Stack
-Programming:
+You can find me on:
+[LinkedIn] [Substack] [Instagram]
 
+## Personal Projects
 
-Machine Learning:
+Project A
 
+Technology Stack:
 
-DevOps:
+Project B
 
+Technology Stack: 
 
-Big Data:
+Project C
 
-
-Cloud:
-
+Technology Stack: 
 
 <!--
 **seung-ltd/seung-ltd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +28,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
