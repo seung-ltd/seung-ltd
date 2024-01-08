@@ -13,7 +13,7 @@ You can find me on:
 Stack:\
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&color=black)
-![HuggingFace](https://camo.githubusercontent.com/4a37a0d842d4927745f9fb7a0b412aeee1dd0cb9d146b60db83b84c9c56fe34a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25463025394625413425393725323048756767696e67466163652d626c61636b3f7374796c653d666f722d7468652d6261646765)
+![HuggingFace](https://camo.githubusercontent.com/502fa87df18b9afdeafb44a8c61f6e03bef6656538bda9cb71d41abfb93c6412/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25463025394625413425393725323048756767696e67466163652d626c61636b3f7374796c653d666f722d7468652d6261646765)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&color=black)
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&color=black)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&color=black)
